@@ -1,3 +1,8 @@
+# images
+src/mn/*.jpg
+src/mn/*.png
+src/mn/*.gif
+
 # Logs
 logs
 *.log
